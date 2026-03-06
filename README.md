@@ -1,4 +1,4 @@
-# ¡Hola! Soy Jesus Eduardo Lizarraga Garduño 👋
+# ¡Hola! Soy Jesus Eduardo Lizarraga Garduño 👋 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&width=435&lines=Estudiante+de+Ingeniería+en+Sistemas+Computacionales;Desarrollador+C%23;Apasionado+por+la+tecnología+Web3" alt="Typing SVG" /></a>
 
 ### 👨‍💻 Sobre mí
 
